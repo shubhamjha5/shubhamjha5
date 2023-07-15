@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamjha5/shubhamjha5/blob/main/github-multiple-integrations-cover.png)
+![logo](https://github.com/shubhamjha5/shubhamjha5/blob/main/banneer25.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Shubham Sourav</h1>
 <h3 align="center">A passionate IT Professional from India.</h3>
